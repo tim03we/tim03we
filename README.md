@@ -3,7 +3,6 @@
 <h1>Informations about me</h1>
 - 🔭 I’m currently working on some projects.. <br/>
 - 🌱 My dev languages Java, PHP, JS <br/>
-- 📫 How to reach me: --- Tim ---#5056 <br/>
 - 📫 How to reach me: --- Tim ---#2651 <br/>
 
 ----------------------
